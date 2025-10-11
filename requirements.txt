@@ -1,0 +1,7 @@
+streamlit==1.39.0
+biopython==1.82
+pandas==2.2.2
+matplotlib==3.9.2
+typing_extensions==4.12.2
+altair==5.3.0
+numpy==1.26.4
